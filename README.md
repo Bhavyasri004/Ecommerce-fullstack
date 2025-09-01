@@ -29,6 +29,9 @@ It provides a smooth shopping experience with features like product listing, car
 2.Install dependencies for frontend:
   cd frontend
   npm install
+
+
+  
 3.Start the frontend:
   npm start
 
