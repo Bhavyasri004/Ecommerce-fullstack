@@ -1,6 +1,6 @@
-# 🛍️ Ecommerce Fullstack Application
+# 🛍️ Ecommerce Application
 
-A complete **full-stack Ecommerce web application** built with React (frontend) and Node.js/Express + MongoDB (backend).  
+A complete ** Ecommerce web application** built with React (frontend) and Node.js/Express + MongoDB (backend).  
 It provides a smooth shopping experience with features like product listing, cart management, checkout, and more.
 ## ✨ Features
 - 🔐 User authentication (signup/login)  
